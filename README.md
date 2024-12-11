@@ -1,1 +1,1 @@
-# roblox-script
+# Wscript
